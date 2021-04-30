@@ -7,6 +7,4 @@
 
 ## Systems ##
 * **User Management System** - Managers Customers, Experts, Administrator and Manager
-* **Ticket Management System** - 
-
 
